@@ -1,0 +1,15 @@
+{
+  "name": "hw_3.2.2-1",
+  "version": "1.0.0",
+  "description": "Этот проект решает задачу выявления студента с самым высоким баллом из набора данных студентов.",
+  "main": "student.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
